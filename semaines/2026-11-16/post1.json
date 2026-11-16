@@ -1,0 +1,9 @@
+[
+ {"type":"cover","tag":"conseil","title":"5 erreurs qui font [[fuir les visiteurs]] de votre site","subtitle":"Je les vois sur beaucoup de sites d'artisans, de commerçants et de TPE. **Bonne nouvelle : elles se corrigent.**"},
+ {"type":"tip","num":"01","title":"Il met trop de temps à s'afficher","text":"Sur mobile, personne n'attend. **Images trop lourdes**, extensions en trop et hébergement bas de gamme sont les coupables les plus fréquents."},
+ {"type":"tip","num":"02","title":"Il est illisible sur téléphone","text":"La majorité des visites se font sur mobile. Textes minuscules, boutons trop petits, menus qui débordent : **le visiteur repart en deux secondes.**"},
+ {"type":"tip","num":"03","title":"On ne sait pas comment vous contacter","text":"Numéro caché en bas de page, formulaire introuvable… Votre **téléphone et un bouton « Devis »** doivent être visibles tout de suite."},
+ {"type":"tip","num":"04","title":"Google ne sait pas où vous êtes","text":"Sans votre **ville et votre métier** dans les titres, et sans fiche Google Business, vos clients du coin ne vous trouvent pas."},
+ {"type":"tip","num":"05","title":"Il a l'air abandonné","text":"Pas de cadenas HTTPS, actualité de 2019, mentions légales absentes : **un site négligé fait douter** de votre sérieux."},
+ {"type":"cta","title":"Vous vous êtes reconnu ? [[On en parle.]]","text":"J'analyse votre site et je vous dis **ce qui bloque vraiment**, sans jargon.","button":"Écrivez-moi « SITE » en MP","note":"Développeur web · Vaucluse & Luberon"}
+]

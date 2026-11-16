@@ -1,0 +1,6 @@
+[
+ {"type":"cover","tag":"conseil","title":"Votre site fait-il [[fuir vos clients]] ?","subtitle":"**5 erreurs** que je vois sur les sites d'artisans et de TPE, et comment les corriger."},
+ {"type":"tip","num":"01","title":"Il met plus de 3 secondes à s'afficher","text":"Sur mobile, chaque seconde d'attente fait partir des visiteurs. **Images trop lourdes** et thèmes surchargés sont les premiers coupables."},
+ {"type":"realisation","title":"MAB Événements, [[décor & papeterie]] sur mesure","url":"mab-evenements.fr","image":"assets/mab.jpg","text":"Site vitrine et boutique en ligne pour une décoratrice événementielle : **galerie, location et vente** de créations personnalisées.","chips":["React","TypeScript","E-commerce"]},
+ {"type":"cta","title":"Envie d'un site qui [[travaille pour vous]] ?","text":"Sites vitrines, e-commerce et applications sur mesure, **dans le Vaucluse** et partout en France."}
+]

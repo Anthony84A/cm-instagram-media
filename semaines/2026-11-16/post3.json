@@ -1,0 +1,9 @@
+[
+ {"type":"cover","tag":"budget","title":"Combien coûte [[vraiment]] un site internet ?","subtitle":"La question que tout le monde se pose. Voici **mes tarifs de départ**, en toute transparence."},
+ {"type":"tip","num":"01","title":"Ce qui fait varier le prix","text":"Le **nombre de pages**, les fonctionnalités (réservation, paiement…), et qui fournit les textes et les photos."},
+ {"type":"tip","num":"02","title":"Une page unique : dès 400 €","text":"La **landing page** : une seule page claire pour présenter une offre ou un événement et récolter des contacts."},
+ {"type":"tip","num":"03","title":"Un site vitrine : dès 700 €","text":"**3 à 5 pages** pour présenter votre activité. Dès 1 000 € pour un site vitrine plus complet."},
+ {"type":"tip","num":"04","title":"Vendre en ligne : dès 1 500 €","text":"Une **boutique e-commerce** de base : catalogue, panier et paiement sécurisé."},
+ {"type":"tip","num":"05","title":"Après la mise en ligne","text":"Prévoyez le **nom de domaine et l'hébergement**, et si vous le souhaitez la maintenance (dès 50 €/mois) pour un site toujours à jour."},
+ {"type":"cta","title":"Obtenez [[un prix précis]] pour votre projet","text":"Tarifs indicatifs. Chaque projet est différent : **le devis est gratuit**.","button":"Demander un devis"}
+]

@@ -1,0 +1,6 @@
+[
+ {"type":"realisation","title":"MAB Événements : [[décor & papeterie]] sur mesure","url":"mab-evenements.fr","image":"assets/mab.jpg","text":"Site vitrine et boutique en ligne pour une **décoratrice événementielle et graphiste**.","chips":["React","TypeScript","E-commerce"]},
+ {"type":"tip","num":"→","title":"Le besoin","text":"Réunir au même endroit **trois activités** : la vente de papeterie et de cadeaux d'invités personnalisés, la **location de décors** et la vitrine de ses créations."},
+ {"type":"realisation","title":"Boutique, galerie et [[location]] réunies","url":"mab-evenements.fr/location","image":"assets/mab-location.jpg","text":"Chaque activité a son espace, avec **une identité élégante** fidèle à son univers : tons doux, typographie raffinée, photos mises en valeur.","chips":["Boutique","Galerie","Location"]},
+ {"type":"cta","title":"Vous aussi, vous avez [[plusieurs activités]] à présenter ?","text":"Je conçois des sites **sur mesure**, pensés pour votre métier et vos clients.","button":"Demander un devis"}
+]
