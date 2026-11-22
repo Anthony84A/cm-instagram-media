@@ -13,6 +13,10 @@ Lire ce fichier avant de planifier, pour ne pas répéter un sujet des 4 derniè
 
 Enseignements : aucun pour l'instant (compte tout juste connecté à Metricool, pas d'historique).
 Retours d'Anthony : a adoré les visuels ; veut une automatisation maximale, avec seulement la validation à faire.
+Débrief (au 22 nov.) : 5 erreurs : 47 comptes touchés, 104 vues, 2 enregistrements, 1 partage. MAB : 23 comptes, 82 vues, 1 enregistrement. Tarifs : 15 comptes, 39 vues, 1 enregistrement.
+Taux d'interaction de 21 à 27 % des personnes touchées. 0 commentaire, 0 abonné venu des posts. Abonnés : 1 030 → 1 023 (+1, −8).
+Avis : le contenu plaît à ceux qui le voient, mais la portée est très faible (1,5 à 5 % des abonnés) : abonnés probablement peu ciblés. Pédagogie > réalisation > appel à l'action. Le samedi est faible.
+Ajustements : 1 Reel par semaine, éviter le week-end, au moins 2 posts pédagogiques par semaine. À vérifier : la collaboration @mab_evenement a-t-elle été acceptée ?
 
 ## Semaine du 23 novembre 2026
 
