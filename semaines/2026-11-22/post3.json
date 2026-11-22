@@ -1,0 +1,9 @@
+[
+ {"type":"cover","tag":"coulisses","title":"Comment se passe [[la création]] de votre site ?","subtitle":"De votre premier message à la mise en ligne : **les coulisses d'un projet**, étape par étape."},
+ {"type":"tip","num":"01","title":"On échange sur votre projet","text":"Votre activité, vos clients, vos objectifs. **Un appel ou un rendez-vous**, puis un devis clair, détaillé et gratuit."},
+ {"type":"tip","num":"02","title":"Je conçois la maquette","text":"Avant de coder, je vous montre **à quoi ressemblera votre site**. Vous validez, ou on ajuste ensemble."},
+ {"type":"tip","num":"03","title":"Vous fournissez les contenus","text":"Textes, photos, logo. **Pas d'inspiration ?** Je vous guide pour les préparer, sans prise de tête."},
+ {"type":"tip","num":"04","title":"Je développe et je teste","text":"Un site rapide, **adapté au mobile**, sécurisé et pensé pour Google, testé sur téléphone, tablette et ordinateur."},
+ {"type":"tip","num":"05","title":"Mise en ligne… et après","text":"Je mets votre site en ligne et je vous montre comment l'utiliser. **La maintenance** (dès 50 €/mois) le garde à jour."},
+ {"type":"cta","title":"Votre projet [[commence ici]]","text":"Racontez-moi votre activité : on voit ensemble **la solution la plus adaptée**.","button":"Demander un devis"}
+]

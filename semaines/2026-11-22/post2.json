@@ -1,0 +1,9 @@
+[
+ {"type":"cover","tag":"conseil","title":"Domaine, hébergement, site : [[enfin clair]]","subtitle":"Trois mots qu'on entend partout. **Une image simple** pour ne plus jamais les confondre."},
+ {"type":"tip","num":"01","title":"Le nom de domaine = votre adresse","text":"C'est **votre-entreprise.fr**. Comme une adresse postale, c'est ce que vos clients tapent pour vous trouver. Il se loue à l'année."},
+ {"type":"tip","num":"02","title":"L'hébergement = le terrain","text":"Un ordinateur allumé en permanence, **un serveur**, qui stocke votre site et l'affiche à chaque visiteur. C'est un abonnement."},
+ {"type":"tip","num":"03","title":"Le site = la maison","text":"Les pages, les textes, les photos, le formulaire de contact : **c'est ce que vos clients visitent.** Et c'est la partie que je construis."},
+ {"type":"tip","num":"04","title":"Le piège à éviter","text":"Un nom de domaine enregistré **au nom de quelqu'un d'autre** que vous. Il doit toujours vous appartenir, même si un prestataire le gère."},
+ {"type":"tip","num":"05","title":"Bonus : une messagerie pro","text":"Votre nom de domaine permet d'avoir **contact@votre-entreprise.fr**. Bien plus rassurant qu'une adresse Gmail sur vos devis."},
+ {"type":"cta","title":"Gardez ce mémo [[sous la main]]","text":"Enregistrez ce post : il vous servira le jour où vous lancerez **votre site**.","button":"Enregistrer ce post","note":"Développeur web · Vaucluse & Luberon"}
+]

@@ -1,5 +1,5 @@
 """Gabarits Instagram d'Anthony Arniaud -> JPEG 1080x1350.
-Usage : python3 render.py spec.json sortie/
+Usage : python3 render.py spec.json sortie/ [--reel]
 spec.json = liste de slides : {"type": "cover|tip|realisation|cta", ...champs}
 """
 import json, sys, base64, html, pathlib
@@ -65,7 +65,11 @@ def rich(t):  # **gras** et [[surligné]]
     t = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", t)
     return re.sub(r"\[\[(.+?)\]\]", r'<span class="hl">\1</span>', t)
 
+REEL = False  # --reel : pied sans compteur ni « Glissez » (slides de Reel)
+
 def foot(s, i, n):
+    if REEL:
+        return '<div class="foot"><span>anthonyarniaud.fr</span><span>Vaucluse · Luberon</span></div>'
     right = '<span class="swipe">Glissez →</span>' if i < n else "anthonyarniaud.fr"
     return f'<div class="foot"><span>{i}/{n}</span>{right}</div>' if n > 1 else f'<div class="foot"><span>anthonyarniaud.fr</span><span>Vaucluse · Luberon</span></div>'
 
@@ -114,4 +118,6 @@ def main(spec_path, out_dir):
         b.close()
 
 if __name__ == "__main__":
-    main(sys.argv[1], sys.argv[2])
+    args = [a for a in sys.argv[1:] if a != "--reel"]
+    REEL = "--reel" in sys.argv
+    main(args[0], args[1])
