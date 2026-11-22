@@ -1,0 +1,36 @@
+{
+ "post1": {
+  "date": "2026-11-24T18:00:00", "type": "REEL",
+  "media": ["2026-11-24-post1-reel.mp4"], "cover": "2026-11-24-post1-01.jpg",
+  "caption": "Une page Facebook suffit-elle pour votre entreprise ? Pas vraiment, et voici pourquoi.\n\nBeaucoup d'artisans et de commerçants du Vaucluse se contentent des réseaux sociaux. C'est un bon début, mais :\n→ votre compte peut être piraté ou suspendu du jour au lendemain ;\n→ sur Google, quand on cherche « plombier à Pertuis » ou « fleuriste Luberon », ce sont surtout des sites et des fiches Google qui ressortent ;\n→ un site internet présente vos services et reçoit des demandes de devis 24 h/24, sans algorithme qui décide qui le voit.\n\nLe bon duo : les réseaux pour attirer l'attention, votre site pour transformer les curieux en clients.\n\nVous voulez votre propre site vitrine ? Demandez votre devis via le lien en bio.\n\n#creationsiteinternet #sitevitrine #artisan #luberon #pertuis",
+  "alt": ["Vidéo au texte animé sur fond bleu nuit : « Une page Facebook suffit-elle pour votre entreprise ? ». Quatre raisons défilent : vos réseaux ne vous appartiennent pas, Google vous trouve mal, un site travaille pour vous 24 h/24, le bon duo réseaux + site. Fin sur un bouton « Demander un devis »."]
+ },
+ "post2": {
+  "date": "2026-11-26T10:00:00", "type": "POST",
+  "media": ["2026-11-26-post2-01.jpg","2026-11-26-post2-02.jpg","2026-11-26-post2-03.jpg","2026-11-26-post2-04.jpg","2026-11-26-post2-05.jpg","2026-11-26-post2-06.jpg","2026-11-26-post2-07.jpg"],
+  "caption": "Nom de domaine, hébergement, site internet : quelle différence ? Voici l'explication la plus simple que je connaisse.\n\nLe nom de domaine, c'est votre adresse : votre-entreprise.fr.\nL'hébergement, c'est le terrain : le serveur sur lequel vit votre site.\nLe site, c'est la maison : les pages que vos clients visitent.\n\nLe point à vérifier dès aujourd'hui : votre nom de domaine doit être enregistré à votre nom, même si c'est votre prestataire qui le gère. Sinon, vous risquez de perdre votre adresse le jour où vous changez de prestataire.\n\nEnregistrez ce post pour l'avoir sous la main le jour où vous créerez ou referez votre site internet.\n\n#nomdedomaine #hebergementweb #creationsiteinternet #developpeurweb #vaucluse",
+  "alt": [
+   "Couverture sur fond bleu nuit : « Domaine, hébergement, site : enfin clair ». Sous-titre : trois mots qu'on entend partout, une image simple pour ne plus les confondre.",
+   "Point 01 : le nom de domaine, c'est votre adresse, par exemple votre-entreprise.fr, que vos clients tapent pour vous trouver. Il se loue à l'année.",
+   "Point 02 : l'hébergement, c'est le terrain, un serveur allumé en permanence qui stocke votre site et l'affiche aux visiteurs. C'est un abonnement.",
+   "Point 03 : le site, c'est la maison, avec les pages, textes, photos et formulaire de contact que vos clients visitent.",
+   "Point 04 : le piège à éviter, un nom de domaine enregistré au nom de quelqu'un d'autre que vous. Il doit toujours vous appartenir.",
+   "Point 05 : bonus, une messagerie pro. Votre nom de domaine permet d'avoir une adresse contact@votre-entreprise.fr, plus rassurante qu'une adresse Gmail.",
+   "Dernière slide : « Gardez ce mémo sous la main », avec un bouton bleu « Enregistrer ce post ». Anthony Arniaud, développeur web, Vaucluse et Luberon."
+  ]
+ },
+ "post3": {
+  "date": "2026-11-27T10:00:00", "type": "POST",
+  "media": ["2026-11-27-post3-01.jpg","2026-11-27-post3-02.jpg","2026-11-27-post3-03.jpg","2026-11-27-post3-04.jpg","2026-11-27-post3-05.jpg","2026-11-27-post3-06.jpg","2026-11-27-post3-07.jpg"],
+  "caption": "Création de site internet : comment ça se passe concrètement ? Je vous ouvre les coulisses.\n\nQuand un artisan, un commerçant ou un indépendant du Vaucluse me contacte, le projet suit 5 étapes :\n1. On échange sur votre activité et vos objectifs, puis je vous envoie un devis clair et gratuit.\n2. Je conçois la maquette : vous voyez votre site avant qu'il soit développé.\n3. Vous fournissez textes, photos et logo, et je vous guide si besoin.\n4. Je développe un site rapide, adapté au mobile et pensé pour Google, puis je le teste sur tous les écrans.\n5. Je le mets en ligne et je vous montre comment l'utiliser. La maintenance (dès 50 €/mois, tarif indicatif) le garde à jour.\n\nVous avez un projet de site vitrine ou de boutique en ligne ? Demandez votre devis via le lien en bio.\n\n#creationsiteinternet #developpeurwebfreelance #sitevitrine #luberon #avignon",
+  "alt": [
+   "Couverture sur fond bleu nuit, étiquette « coulisses » : « Comment se passe la création de votre site ? », de votre premier message à la mise en ligne.",
+   "Étape 01 : on échange sur votre projet, votre activité, vos clients et vos objectifs, puis un devis clair, détaillé et gratuit.",
+   "Étape 02 : je conçois la maquette pour vous montrer à quoi ressemblera votre site avant de coder. Vous validez ou on ajuste.",
+   "Étape 03 : vous fournissez les contenus, textes, photos et logo, avec mon aide pour les préparer.",
+   "Étape 04 : je développe et je teste un site rapide, adapté au mobile, sécurisé et pensé pour Google, sur téléphone, tablette et ordinateur.",
+   "Étape 05 : mise en ligne, prise en main du site, puis maintenance dès 50 euros par mois pour le garder à jour.",
+   "Dernière slide : « Votre projet commence ici », avec un bouton bleu « Demander un devis » et la mention « Réponse sous 24 h, lien en bio »."
+  ]
+ }
+}
