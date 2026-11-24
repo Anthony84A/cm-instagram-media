@@ -33,3 +33,5 @@ Enseignements (stats du 23 oct. au 22 nov.) :
 
 Outillage : `render.py --reel` remplace le compteur et le « Glissez → » par le pied de page du site. Le Reel est fait avec ffmpeg (slides 4:5 sur un fond 1080×1920, transitions qui glissent).
 Retours d'Anthony : a tout validé sans modification.
+Reel du 24 nov. : passé en publication manuelle pour y ajouter la musique (Tame Impala, « Loser »), car Metricool n'a pas accès au catalogue musical d'Instagram pour ce compte (erreur 403). Anthony l'a publié lui-même depuis Instagram, Metricool l'indique comme publié.
+À retenir : un Reel avec musique = publication manuelle (autoPublish false) ou publication directe dans Instagram. Pour automatiser la musique, il faudrait relier le compte Instagram à une Page Facebook.
